@@ -1,1 +1,2 @@
-<title>Bienvenidos al encriptador de texto</title>
+<h1>Bienvenidos al encriptador de texto</h1>
+
