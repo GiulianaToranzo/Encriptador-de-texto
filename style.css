@@ -94,3 +94,14 @@ main{
     color: #495057;
     font-size: 18px;
 }
+
+footer{
+    text-align: center;
+    padding:40px;
+}
+
+.copyright{
+    color:black;
+    font-size: 13px;
+    margin:20px;
+}
